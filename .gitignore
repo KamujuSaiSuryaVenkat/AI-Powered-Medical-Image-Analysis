@@ -1,0 +1,14 @@
+# Environments
+venv/
+__pycache__/
+
+# AI Models (Too large for GitHub)
+models/*.h5
+models/*.keras
+
+# Raw Dataset (Don't upload 14,000 images!)
+data/
+
+# OS generated files
+.DS_Store
+Thumbs.db

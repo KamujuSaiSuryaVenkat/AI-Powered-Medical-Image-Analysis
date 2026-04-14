@@ -1,0 +1,12 @@
+tensorflow==2.15.0 
+numpy 
+opencv-python 
+fastapi 
+uvicorn 
+python-multipart 
+streamlit 
+requests 
+pandas 
+matplotlib 
+seaborn 
+scikit-learn
