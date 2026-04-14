@@ -1,8 +1,8 @@
-# 🩻 EnvisionAI: Intelligent Radiology Diagnosis System
+# DocAI - Radiology Dashboard
 
 ## 📌 Overview
 
-EnvisionAI is an AI-powered radiology assistant designed to analyze chest X-ray images and provide automated diagnostic predictions. The system leverages deep learning (MobileNetV2-based transfer learning) to classify medical conditions and presents results through an interactive dashboard with interpretability features like heatmaps.
+DocAI is an AI-powered radiology assistant designed to analyze chest X-ray images and provide automated diagnostic predictions. The system leverages deep learning (MobileNetV2-based transfer learning) to classify medical conditions and presents results through an interactive dashboard with interpretability features like heatmaps.
 
 ---
 
